@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jul 25, 2024 at 08:53 AM
+-- Generation Time: Jul 27, 2024 at 03:20 AM
 -- Server version: 8.0.30
 -- PHP Version: 7.4.33
 
@@ -53,8 +53,8 @@ INSERT INTO `t_agenda` (`id_agenda`, `title_agenda`, `status`, `trash`, `photo_c
 (1, 'SEMPENASUS', 'publish', '1', '1.jpg', '', '<p>Dalam rangka melaksanakan Tridarma Perguruan Tinggi terutama bidang penelitian, dosen diwajibkan untuk mempublikasikan hasil penelitian baik dalam bentuk jurnal ataupun dalam seminar. FKIP Universitas Subang memiliki kegiatan Seminar Nasional Pendidikan yang merupakan agenda tahunan. Kegiatan ini bertujuan untuk memberikan sarana kepada Dosen, mahasiswa, Guru, dan peneliti lainnya dalam mempublikasikan karya ilmiahnya. Seminar Nasional ini juga memberikan Keynote Speaker yang kompeten dalam Tema Seminar yang diusung. Pada akhirnya kegiatan ini menjadi ajang temu ilmiah antara mahasiswa, dosen, guru, dan peneliti lainnya.</p>', '2022-03-10', '18:50', 'sempenasus', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
 (2, 'GEBYAR OLAHRAGA PELAJAR 2018', 'publish', '1', '2.jpg', '', '<p>Dalam rangka memperingati Dies NatalisFKIP yang Ke-8 tahun dan Universitas Subang yang ke 13 tahun, maka dengan ini Program Studi Pendidikan Jasmani Kesehatan dan Rekreasi Universitas SUbang menyelenggarakan Gebyar Olahraga Pelajar 2018. Gebyar ini memperlombakan cabang olahraga berikut ini</p>\r\n\r\n<p>Futsal<br />\r\nBola Voli<br />\r\nBola basket 3 on 3<br />\r\nLari lintas alam<br />\r\nTaekwondo<br />\r\nKegiatan ini akan diselenggarakan pada 25-29 April 2018 setiap cabag olahraga memperebutkan juara umum berupa Piala Rektor Universitas SUbang,Uang Pembinaan dan Sertifikat.</p>\r\n\r\n<p>Adapun biaya pendaftaran untuk setiap cabang olahraga adalah sebagai berikut:</p>\r\n\r\n<p>Basket 3 on 3 Rp. 300.000 untuk 3 tim, setiap sekolah dapat mengirimkan lebih dari 1 tim<br />\r\nBola Voli Rp.300.000/tim<br />\r\nFutsal Rp.300.000/tim<br />\r\nTiga cabang olahraga tersebut kepesertaanya dikhususkan untuk jenjang SMA/SMK/MA Sederajat. Sementara itu, biaya pendaftaran</p>\r\n\r\n<p>Taekwondo Rp.250.000/orang/nomor<br />\r\nlari lintas alam gratis biaya pendaftaran<br />\r\nCabang olahraga taekwondo dapat diikuti oleh semua jenjang dari SD sd SMA/Sederajat. Sedangkan lari lintas alam terbuka untuk umum.</p>\r\n\r\n<p>Informasi lebih lanjut dapat menghubungi</p>\r\n\r\n<p>Rizki Saputra, 08239562251 Koordinator Bola Basket.<br />\r\nArif Raman, 081220068770 Koordinator Bola Voli<br />\r\nJihad Alfikri, 0895353923527 Koordinator Futsal<br />\r\nNana Wyatna, 085351245666, Koordinator Taekwondo<br />\r\nAsep KAdarsyah, 085316922276 Koordinator Lari lintas alam<br />\r\nPendaftaran mulai dari tanggal 31 Maret-20 April 2018. Pendaftaran dapat dilakukan melalui sms/telf/WA pada nomor telefon yang tercantum di atas. atau dapat datang langsung ke sekertariat pendaftaran di Gesung FKIP Universitas Subang Jl.RA Kartini Km 3 Subang.</p>\r\n\r\n<p>Cari Berita<br />\r\nSearch&hellip;<br />\r\nDownload Sertifikat Akreditasi<br />\r\nDownload Sertifikat Akreditasi Prodi PJKR</p>\r\n\r\n<p>Download Sertifikat Akreditasi Prodi Pend. B. Inggris</p>\r\n\r\n<p>Why must FKIP&hellip;?</p>\r\n\r\n<p>FKIP merupakan Fakultas yang memiliki tiga Program Studi, yakni Pendidikan Matematika, Pendidikan Bahasa Inggris, dan Pendidikan Jasmani Kesehatan Rekreasi. Ketiga program studi tersebut memliki keunggulan-keunggulan diantaranya: untuk program studi PJKR setiap lulusannya akan dibekali oleh keterampilan dalam pengelolaan outbond. Sementara itu, pada program studi Pendidikan Matematika mahasiswa dibekali keterampilan dalam pemanfaatan media pembelajaran matematika. Pada program studi pendidikan bahasa inggris, mahasiswa dibekali keterampilan dalam penguasaan conversation dengan native speaker.</p>', '2022-03-10', '18:56', 'gebyar-olahraga-pelajar-2018', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
 (3, 'Gebyar Olahraga Pelajar (GOPE) 2020', 'publish', '1', '3.jpg', '', '', '2022-03-10', '19:01', 'gebyar-olahraga-pelajar-gope-2020', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
-(4, 'Kompetisi Matematika (Komet) 2020', 'publish', '1', '4.jpg', '', '', '2022-03-10', '19:01', 'kompetisi-matematika-komet-2020', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
-(5, 'English Competition 2020', 'publish', '1', '5.jpg', '', '', '2022-03-10', '19:01', 'english-competition-2020', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
+(4, 'Kompetisi Matematika (Komet) 2020', 'publish', '2', '4.jpg', '', '', '2022-03-10', '19:01', 'kompetisi-matematika-komet-2020', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
+(5, 'English Competition 2020', 'publish', '2', '5.jpg', '', '', '2022-03-10', '19:01', 'english-competition-2020', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
 (6, 'Coming Soon Diskusi Publik Online: Ã¢â‚¬Å“Sekolah Kita Setelah KoronaÃ¢â‚¬Â', 'publish', '1', '6.jpg', '', '', '2022-03-10', '19:26', 'coming-soon-diskusi-publik-online-sekolah-kita-setelah-korona', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
 (7, 'Challenge Video Kreatif FKIP Universitas Subang', 'publish', '1', '7.jpg', '', '<p><img alt=\"\" src=\"http://localhost/fkip/theme/images/files/challenge.PNG\" style=\"height:851px; width:589px\" /></p>', '2022-03-10', '19:26', 'challenge-video-kreatif-fkip-universitas-subang', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
 (8, 'Ulasan Diskusi Publik Online: Ã¢â‚¬Å“Sekolah Kita Setelah KoronaÃ¢â‚¬Â', 'publish', '1', '8.jpg', '', '<p style=\"text-align:center\">&ldquo;Sekolah Kita Setelah Korona&rdquo;</p>\r\n\r\n<p>Fakultas keguruan dan Ilmu Pendidikan (FKIP) Universitas Subang telah mengadakan diskusi publik online untuk pertama kalinya pada tanggal 16 Mei 2020. Kegiatan yang bertajuk &ldquo;Sekolah Kita Setelah Corona&rdquo; ini di moderatori oleh Ida Maulida, M.Pd dan diisi oleh narasumber-narasumber ahli dibidangnya masing-masing diantaranya; Dekan FKIP Dr. Nita Delima, S.Si, M.Pd sebagai narasumber pembuka, diikuti oleh Bapak Dr. Aep Saepudin, MM.Pd., M.Pd dari Dinas Pendidikan Kabupaten Subang, Kemudian Bapak Edi Sugandi, S.Pd., M.Pd dari MKKS Kabupaten Subang, serta yang terakhir adalah Bapak H. Dedi Dediyana, A.Md dari KPAD Kabupaten Subang.</p>\r\n\r\n<p>Kegiatan yang diselenggarakan melalui aplikasi zoom dan disalurkan ke kanal &ldquo;youtube&rdquo; BEM FKIP UNSUB ini telah menarik minat peserta umum sebanyak seratus orang lebih. Para peserta terdiri dari berbagai instansi dari Subang maupun luar Subang seperti Siswa-siswi, Mahasiswa-mahasiswi, Tenaga pengajar, dan para orangtua.</p>\r\n\r\n<p>Kegiatan ini diadakan sebagai langkah pertama dalam dunia pendidikan di Kabupaten Subang untuk mempersiapkan apa saja yang diperlukan pendidikan dalam menghadapi pandemi COVID-19. Ada banyak hal-hal menarik yang dibahas oleh para narasumber yang bisa dijadikan bahan pertimbangan dan persiapan kita dalam menghadapi pandemi ini khususnya di bidang pendidikan.</p>\r\n\r\n<p>Ibu Dr. Nita Delima, S.Si., M.Pd. sebagai narasumber pertama menjelaskan bahwa pandemi COVID-19 yang belum akan hilang dalam waktu dekat ini akan mengubah dunia pendidikan untuk segera menerapkan &ldquo;Education 4.0&rdquo; yang lebih personal, fleksibel, dimanapun, dan kapanpun. Ini perlu dukungan pemerintah berupa kebijakan teknologi yang dapat meng-akomodasi segala kebutuhan-kebutuhan lembaga pendidikan dan yang dididik.</p>\r\n\r\n<p>Disusul oleh narasumber dari Dinas Pendidikan bapak Dr. Aep Saepudin, MM.Pd., M.Pd yang memperjuangkan pendidikan dengan cara mengevaluasi setiap program pendidikan dan mengarahkannya untuk mengembangkan program berbasis IT. Tidak lupa dengan pengadan sarana prasarana IT di sekolah-sekolah. Beliau juga menegaskan agar orangtua dan para guru agar mau mengembangkan diri mengikuti tantangan zaman.</p>\r\n\r\n<p>Tidak sampai disana, diskusi menjadi semakin menarik saat saat narasumber dari MKKS SMA Kabupaten Subang bapak Edi Sugandi, S.Pd., M.Pd. yang menyetujui langkah-langkah yang diambil pemerintah sambil bercerita dilema-dilema yang dihadapi sekolah-sekolah dan guru-guru. Beliau menjelaskan bahwa dalam pandemi ini mengharuskan sekolah dipaksa untuk siap mengikuti segala kebijakan yang bisa berubah dalam jangka waktu pendek. Selain itu, beliau juga menjelaskan bahwa mayoritas tenaga pengajar berusia diatas 46 tahun. Artinya, mayoritas tenaga pengajar di Indonesia adalah orangtua yang tidak semuanya siap untuk berubah. Inilah yang menjadi pekerjaan rumah kita bersama bahwa para orangtua dan guru saat ini harus jadi pemberontak. Berontak menghadapi kemalasan beradaptasi terhadap perkembangan IT.</p>\r\n\r\n<p>Kemudian, diskusi berlanjut kepada narasumber terakhir bapak H. Dedi Dediyana, A.Md dari KPAD Kabupaten Subang. Beliau menyarankan agar setiap lembaga pendidikan dan pembuat kebijakan pendidikan mengevaluasi setiap keputusan berdasarkan pada tumbuh kembang anak dan memperhatikan hak-hak anak.</p>\r\n\r\n<p>Keempat narasumber tersebut mendapat sambutan hangat dari para audiens yang mendapat ilmu-ilmu baru. Informasi-informasi yang didapatkan sangat berguna bagi mereka untuk menghadapi tantangan pendidikan disaat pandemi COVID-19 belum juga usai.</p>\r\n\r\n<p>Kegiatan diskusi publik online ini dipenuhi manfaat-manfaat yang bisa kita ambil. Meski demikian, kegiatan ini tidak luput dari kekurangan.</p>\r\n\r\n<p>Kekurangan-kekurangan tersebut lebih banyak terjadi pada hal-hal teknis seperti audio-video, sinyal, dan delay tayangan. Ditambah dengan aplikasi Zoom yang akan menutup setelah diskusi berjalan selama 40, menit. Alhasil setiap narasumber dan audiens harus kembali masuk pada link yang sama berkali-kali.</p>\r\n\r\n<p>Namun, itu semua tidak menghalangi antusiasme para audiens untuk mendapatkan ilmu-ilmu, semangat para narasumber dalam menyampaikan hal-hal penting, dan para panitia dalam menyelenggarakan kegiatan. Terbukti dengan masih jernihnya tayangan di kanal &ldquo;youtube&rdquo; serta respon audiens yang ikut berpartisipasi dengan menyampaikan pertanyaan-pertanyaan penting yang menandakan bahwa pesan-pesan yang disampaikan para narasumber telah sampai kepada benak seluruh audiens.</p>\r\n\r\n<p>Meski banyak kendala pada penayangannya karena faktor sumber daya yang menjadikan diskusi online memang tidak se-efektif diskusi langsung. Kita menjadi sadar bahwa teknologi tidak akan bisa menggantikan interaksi antar manusia seperti yang dikatakan salah satu audiens bernama Budi Mulyono ini:</p>\r\n\r\n<p>&ldquo;Secanggih apapun pembelajaran online yang dilaksanakan, tidak akan pernah dapat menggantikan aspek yang bisa didapat peserta didik dari pembelajaran langsung.&rdquo;</p>\r\n\r\n<p>Pernyataan ini disetujui oleh semua audiens dan para narasumber karena memang benar adanya. Manusia perlu interaksi langsung untuk saling memahami termasuk dalam kegiatan belajar mengajar.</p>\r\n\r\n<p>Walaupun begitu, bukan berarti kita tidak melakukan apa-apa hanya karena kita menyadari bahwa diskusi online tidak se-efektif diskusi langsung. Justru dengan adanya pandemi COVID-19 inilah kita harus memaksimalkan segala cara yang ada. Karena inilah FKIP UNSUB menyelenggarakan kegiatan ini.</p>\r\n\r\n<p>Demikian kegiatan diskusi publik online ini terselenggara dengan baik dan memuaskan. FKIP UNSUB telah menjadi yang pertama melangkah di Kabupaten Subang dalam bidang pendidikan di tengah pandemi COVID-19.</p>\r\n\r\n<p>Mari kita semua berharap agar pandemi ini segera hilang dari bumi dan kita bisa memetik segala hikmah yang ada agar menjadi penyelamat kita dimasa depan. -AL-</p>', '2022-03-10', '19:26', 'ulasan-diskusi-publik-online-sekolah-kita-setelah-korona', 3, '0:00', '0:00', '2022-03-10', 'Subang'),
@@ -91,7 +91,97 @@ INSERT INTO `t_agenda` (`id_agenda`, `title_agenda`, `status`, `trash`, `photo_c
 (38, 'Penerimaan Mahasiswa Baru FKIP Universitas Subang Tahun Akademik 2023/2024', 'publish', '2', '38.jpg', '', '<p>Penerimaan Mahasiswa Baru Fakultas keguruan dan Ilmu Pendidikan Universitas Subang Tahun Akademik 2023/2024</p>\r\n\r\n<p>Program Studi :&nbsp;</p>\r\n\r\n<p>1. Pendidikan Matematika (S1)</p>\r\n\r\n<p>2. Pendidikan Bahasa Inggris (S1)</p>\r\n\r\n<p>3. Pendidikan Jasmani, Kesehatan dan Rekreasi (S1)</p>\r\n\r\n<p>Untuk pendaftaran bisa diakses di daftar.unsub.ac.id<br />\r\nAtau bisa langsung datang ke gedung Fakultas Keguruan dan Ilmu Pendidikan.&nbsp;</p>\r\n\r\n<p>#kampus #kampusmerdeka #kabupatensubang #fkip #unsub &nbsp;#subang #pmb #mahasiswa #pendidikanmatematika #pendidikanbahasainggris #pendidikanjasmanikesehatandanrekreasi</p>', '2023-04-17', '5:36', 'penerimaan-mahasiswa-baru-fkip-universitas-subang-tahun-akademik-2023-2024', 3, '', '', '0000-00-00', 'Subang'),
 (42, 'coba test agenda', 'publish', '1', 'agenda_1721892313.png', NULL, '<p>coba test agenda</p>', '2024-07-25', '14:25', 'coba-test-agenda', 3, '08:00', '12:00', '2024-07-27', 'online'),
 (44, 'kokokok', 'publish', '1', 'agenda_1721894777.png', 'zzx', '<p>olapsodpaopsdpasd asdasd asdasd</p>', '2024-07-25', '15:06', 'kokokok', 3, '08:00', '12:00', '2024-07-27', 'subang'),
-(45, 'huaispfue qwrio oas', 'publish', '1', 'agenda_1721896450.png', 'sssssss edit', '<p>lorem ipsum dolor sit amet</p>', '2024-07-25', '15:41', 'huaispfue-qwrio-oas', 3, '08:00', '12:00', '2024-07-27', 'subang');
+(45, 'huaispfue qwrio oas', 'publish', '1', 'agenda_1721896450.png', 'sssssss edit', '<p>lorem ipsum dolor sit amet</p>', '2024-07-26', '12:48', 'huaispfue-qwrio-oas', 3, '08:00', '12:00', '2024-07-27', 'subang');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `t_faq`
+--
+
+CREATE TABLE `t_faq` (
+  `id_faq` int NOT NULL,
+  `title_faq` varchar(100) NOT NULL,
+  `desc_faq` text,
+  `date_posting` date DEFAULT NULL,
+  `time_posting` varchar(10) NOT NULL,
+  `id_user` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `t_kerjasama`
+--
+
+CREATE TABLE `t_kerjasama` (
+  `id_ks` int NOT NULL,
+  `title_ks` varchar(100) NOT NULL,
+  `photo_cover` varchar(200) NOT NULL,
+  `date_posting` date DEFAULT NULL,
+  `time_posting` varchar(10) NOT NULL,
+  `id_user` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+--
+-- Dumping data for table `t_kerjasama`
+--
+
+INSERT INTO `t_kerjasama` (`id_ks`, `title_ks`, `photo_cover`, `date_posting`, `time_posting`, `id_user`) VALUES
+(2, 'adasdyugasiyd', 'kerjasama_1721985871.jpg', '2024-07-26', '16:24', 3),
+(3, 'uyasgduaisygd', 'kerjasama_1721985882.png', '2024-07-26', '16:24', 3);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `t_news`
+--
+
+CREATE TABLE `t_news` (
+  `id_news` int NOT NULL,
+  `title_news` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `status` enum('publish','draft') CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `trash` enum('1','2') CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `photo_cover` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `photo_desc` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `desc_news` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci,
+  `date_posting` date DEFAULT NULL,
+  `time_posting` varchar(10) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `slug_news` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `id_user` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `t_news`
+--
+
+INSERT INTO `t_news` (`id_news`, `title_news`, `status`, `trash`, `photo_cover`, `photo_desc`, `desc_news`, `date_posting`, `time_posting`, `slug_news`, `id_user`) VALUES
+(56, 'ALUR PERJALANAN MENUJU SEMINAR USULAN PENELITIAN', 'publish', '1', '56.jpg', 'ALUR PERJALANAN MENUJU SEMINAR USULAN PENELITIAN', '<h2><img alt=\"\" src=\"https://www.map.unsub.ac.id/theme/images/files/news/WhatsApp-Image-2022-01-13-at-11_03_28.jpeg\" style=\"height:1200px; width:848px\" /></h2>\r\n\r\n<h2>ALUR PERJALANAN MENUJU SEMINAR USULAN PENELITIAN</h2>\r\n\r\n<p>Universitas Subang, 13 Januari 2022 &ndash; Bagi teman-teman mahasiswa semester 6 atau semester 7, khususnya mahasiswa FKIP Universitas Subang yang mau mengikuti seminar UP, infografis ini dapat menjadi panduan operasionalnya ya! Pacu terus semangatnya, langkah studi tinggal sedikit lagi! Salam sukses untuk seluruh calon lulusan terbaik Universitas Subang!</p>', '2022-06-08', '14:24', 'alur-perjalanan-menuju-seminar-usulan-penelitian', 3),
+(57, 'Penandatanganan Perjanjian Kerjasama Antara Program Pascasarjana Universitas Subang dengan Pascasarj', 'publish', '1', '57.jpg', 'Penandatanganan Perjanjian Kerjasama Antara Program Pascasarjana Universitas Subang dengan Pascasarjana Universitas Galuh Tentang Pertukaran Dosen', '<h2><img alt=\"\" src=\"https://www.map.unsub.ac.id/theme/images/files/news/WhatsApp-Image-2022-01-02-at-13_43_40.jpeg\" style=\"height:867px; width:1156px\" /></h2>\r\n\r\n<h2>Penandatanganan Perjanjian Kerjasama Antara Program Pascasarjana Universitas Subang dengan Pascasarjana Universitas Galuh Tentang Pertukaran Dosen</h2>\r\n\r\n<p>SUBANG, 22 Desember 2021 &ndash; Universitas Subang menyambut kedatangan perwakilan Universitas Galuh dalam rangka penandatanganan Memorandum of Understanding (MoU) kerjasama program pascasarjana terkait pertukaran dosen. Dijadwalkan mulai pada Rabu (22/12) pukul 09.30, acara baru dapat dimulai sekitar pukul 11.00 WIB di aula Universitas Subang karena jarak yang ditempuh oleh Universitas Galuh mengalami hambatan. Adapun pihak Universitas Subang yang menghadiri kegiatan ini diantaranya yakni rektor dan wakil rektor, jajaran Kepala Biro, serta jajaran dekan. Sedangkan dari pihak Universitas Galuh, diwakili oleh wakil rektor I sekaligus direktur pascasarjana, ketua SPM, Kaprodi, dan dosen yang tergabung dalam tim pendiri program pascasarjana.</p>\r\n\r\n<p>Setelah acara dimulai oleh pembawa acara, rektor sekaligus direktur pascasarjana Universitas Subang diperkenankan untuk memberi sambutan. Sambutan tersebut berisi ucapan terimakasih untuk panitia yang telah mempersiapkan acara dan kepada Universitas Galuh atas kehadiran serta kerjasama yang akan segera ditandatangani. Selain itu, rektor Universitas Subang juga menyampaikan permohonan maaf apabila sambutan yang diberikan tidak sesuai dengan apa yang diharapkan karena terkendala renovasi gedung Universitas Subang. &ldquo;Mohon maaf jika sambutannya tidak sesuai dengan apa yang diharapkan dikarenakan unsub sedang&nbsp;<em>kuriak</em>&nbsp;atau renovasi&rdquo; tutur rektor Universitas Subang Dr. Ir. Drs. H. A. Moeslihat Komara, M.Si. Meski begitu, besar harapan rektor Universitas Subang agar kerjasama ini dapat bermanfaat bagi banyak pihak. &ldquo;semoga MoU ini bisa memberikan berkah dan manfaat untuk semuanya&rdquo; lanjut beliau. &ldquo;Kerjasama ini bisa dikatakan sebagai kampus&nbsp;<em>out</em>&nbsp;karena pihak unsub memperintahkan bapak Dr. Tepi Peirisal, S.Sos., M.Si. dari Fakultas Ilmu Komputer dan bapak Dr. Suherlan, S.Sos., M.Si. dari Program Studi Ilmu Administrasi Niaga untuk bertugas di Unigal&rdquo;. Dr. Ir. Drs. H. A. Moeslihat Komara, M.Si. selaku rektor Universitas Subang berharap agar pihak Universitas Galuh dapat melakukan hal yang sama. &ldquo;Harapannya kerjasama ini akan terus berlanjut, kedepannya diharapkan ibu/bapak dekan dapat menindaklanjuti MoU ini dengan kerjasama dalam bentuk apapun&rdquo; tutur beliau. Sambutan beliau ditutup dengan memperkenalkan satu-persatu perwakilan Universitas Subang yang berada dalam aula pertemuan kemudian diakhiri dengan ucapan terimakasih dan salam. &ldquo;Meskipun jarak Unsub dan Unigal jauh, tapi hubungannya sudah dekat&rdquo; tutup beliau.</p>\r\n\r\n<p>Sambutan selanjutnya disampaikan oled Wakil Rektor I sekaligus direktur pascasarjana Universitas Galuh. Sebagai pembuka, beliau memperkenalkan satu-persatu perwakilan yang hadir yakni tim pendiri program pascasarjana Universitas Galuh yang bertempat di Ciamis, Jawa Barat. Adapun Universitas Galuh meminta bantuan Universitas Subang untuk membantu mendirikan program pascasarjana atau S2. &ldquo;Tim pendirian pascasarjana meminta bantuan unsub untuk menjadi penguat dalam pembentukan S2&rdquo; tutur beliau. Terkait dengan penandatanganan MoU, beliau mengatakan bahwa perjanjian tersebut tidak ada gunanya jika tidak ditindaklanjuti dengan kerjasama lanjutan. &ldquo;Terkait dengan MoU, MoU tidak ada harganya jika tidak ditindaklanjuti. Nah, tindak lanjutnya adalah kerjasama. Harapannya, Unigal dan Unsub dapat bekerjasama dalam hal MBKM, terutama untuk Fakultas Pertanian. Kemudian, dapat ditindak lanjuti dengan kerjasama intens, mengarah pada kerjasama prodi.&rdquo; Menurut beliau, kerjasama ini juga dapat menambah poin-poin penilaian pada saat akreditasi. Beliau juga menyampaikan permohonan maaf atas keterlambatan yang tidak diharapkan.</p>\r\n\r\n<p>Sebelum mengakhiri acara, masing-masing universitas memberikan cindera mata dan saling berfoto bersama. Kemudian acara ditutup dengan diskusi santai oleh peserta yang hadir dalam acara tersebut.</p>', '2021-12-22', '14:24', 'penandatanganan-perjanjian-kerjasama-antara-program-pascasarjana-universitas-subang-dengan-pascasarjana-universitas-galuh-tentang-pertukaran-dosen', 3),
+(58, 'Selamat Menunaikan Ibadah Puasa Ramadhan 1443 H / 2022 M', 'publish', '1', '58.jpg', 'Selamat Menunaikan Ibadah Puasa Ramadhan 1443 H / 2022 M', '<h2><img alt=\"\" src=\"https://www.map.unsub.ac.id/theme/images/files/news/20220401_143309_0000.png\" style=\"height:1080px; width:1080px\" /></h2>\r\n\r\n<h2>Selamat Menunaikan Ibadah Puasa Ramadhan 1443 H / 2022 M</h2>\r\n\r\n<p>Rektor Universitas Subang Mengucapkan Selamat Menunaikan Ibadah Puasa Ramadhan 1443 H / 2022 M.</p>\r\n\r\n<p>Marhaban Ya Ramadhan.</p>\r\n\r\n<p>Mari persiapkan pikiran, tubuh, dan jiwa kita untuk menyambut bulan suci ini. Niatkan karna Allah dan perbanyaklah amal ibadah. Semoga dalam bimbingan Allah SWT, kita mampu lakukan kebaikan dan meraih manfaatnya semaksimal mungkin.</p>\r\n\r\n<p>Segera daftarkan diri kalian dan bergabung menjadi bagian dari Universitas Subang &ldquo;School of Empowering People&rdquo;.<br />\r\n&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;<br />\r\nUniversitas Subang memiliki 7 Fakultas, yaitu :</p>\r\n\r\n<p>1. Fakultas Ilmu Administrasi</p>\r\n\r\n<p>2. Fakultas Teknik</p>\r\n\r\n<p>3. Fakultas Ilmu Komputer</p>\r\n\r\n<p>4. Fakultas Hukum</p>\r\n\r\n<p>5. Fakultas Keguruan &amp; Ilmu Pendidikan</p>\r\n\r\n<p>6. Fakultas Agrobisnis dan Rekayasa Pertanin</p>\r\n\r\n<p>7. Fakultas Ilmu Komunikasi</p>\r\n\r\n<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;<br />\r\nAyo Tunggu Apalagi!!<br />\r\nSegera bergabung menjadi mahasiswa UNSUB<br />\r\n.<br />\r\nPendaftaran sudah dimulai dari bulan Februari 2022 yaa!</p>', '2022-04-04', '14:24', 'selamat-menunaikan-ibadah-puasa-ramadhan-1443-h-2022-m', 3),
+(59, 'Wilujeng Milangkala Ka 74 Kabupaten Subang', 'publish', '1', '59.jpg', 'Wilujeng Milangkala Ka 74 Kabupaten Subang', '<h3><img alt=\"\" src=\"https://www.map.unsub.ac.id/theme/images/files/news/png_20220405_094820_0000.png\" style=\"height:1080px; width:1080px\" /></h3>\r\n\r\n<h2>Wilujeng Milangkala Ka 74 Kabupaten Subang</h2>\r\n\r\n<p>Rektor Universitas Subang Mengucapkan Wilujeng Milangkala Ka 74 Kabupaten Subang</p>\r\n\r\n<p>SUBANG JAWARA &ldquo;Jaya Istimewa Sejahtera&rdquo; Bukti Nyata Karya Utama Satya Nagara.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Segera daftarkan diri kalian dan bergabung menjadi bagian dari Universitas Subang &ldquo;School of Empowering People&rdquo;.<br />\r\n&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;<br />\r\nUniversitas Subang memiliki 7 Fakultas, yaitu :</p>\r\n\r\n<p>1. Fakultas Ilmu Administrasi</p>\r\n\r\n<p>2. Fakultas Teknik</p>\r\n\r\n<p>3. Fakultas Ilmu Komputer</p>\r\n\r\n<p>4. Fakultas Hukum</p>\r\n\r\n<p>5. Fakultas Keguruan &amp; Ilmu Pendidikan</p>\r\n\r\n<p>6. Fakultas Agrobisnis dan Rekayasa Pertanin</p>\r\n\r\n<p>7. Fakultas Ilmu Komunikasi</p>\r\n\r\n<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;<br />\r\nAyo Tunggu Apalagi!!<br />\r\nSegera bergabung menjadi mahasiswa UNSUB<br />\r\n.<br />\r\nPendaftaran sudah dimulai dari bulan Februari 2022 yaa!</p>', '2022-04-05', '14:24', 'wilujeng-milangkala-ka-74-kabupaten-subang', 3),
+(60, 'Selamat Hari Raya Idul Fitri 1443 H / 2022 M', 'publish', '1', '60.jpg', 'Selamat Hari Raya Idul Fitri 1443 H / 2022 M', '<p><img src=\"https://www.map.unsub.ac.id/theme/images/files/news/20220429_130754_0000.png\"></p><h2>Selamat Hari Raya Idul Fitri 1443 H / 2022 M</h2><p>Rektor Universitas Subang Mengucapkan Selamat Selamat Hari Raya Idul Fitri 1443 H / 2022 M.</p><p>Mohon Maaf Lahir dan Batin.</p><p>Jika kita kufur, banyak sekali hal yang kita keluhkan. Namun sebaliknya, jika kita bersyukur, maka tak akan terhitung jumlah nikmat yang telah kita terima. Mari selalu bersyukur, terutama untuk nikmat sehat dan sempat, sehingga kita dapat bertemu dengan hari raya tahun ini. Semoga Allah selalu melimpahkan nikmatnya kepada kita, sehingga kita dapat berjumpa dengan Ramadhan dan Lebaran di tahun berikutnya.</p><p>Segera daftarkan diri kalian dan bergabung menjadi bagian dari Universitas Subang “School of Empowering People”.</p><p>————————————</p><p>Universitas Subang memiliki 7 Fakultas, yaitu :</p><p>1. Fakultas Ilmu Administrasi</p><p>2. Fakultas Teknik</p><p>3. Fakultas Ilmu Komputer</p><p>4. Fakultas Hukum</p><p>5. Fakultas Keguruan &amp; Ilmu Pendidikan</p><p>6. Fakultas Agrobisnis dan Rekayasa Pertanin</p><p>7. Fakultas Ilmu Komunikasi</p><p>————————————</p><p>Ayo Tunggu Apalagi!!</p><p>Segera bergabung menjadi mahasiswa UNSUB</p><p>.</p><p>Pendaftaran sudah dimulai dari bulan Februari 2022 yaa!</p><p>————————————</p>', '2024-07-26', '12:45', 'selamat-hari-raya-idul-fitri-1443-h-2022-m', 3);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `t_staff`
+--
+
+CREATE TABLE `t_staff` (
+  `id_staff` int NOT NULL,
+  `nama_staff` text,
+  `photo_cover` varchar(200) NOT NULL,
+  `jabatan` text,
+  `id_user` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+--
+-- Dumping data for table `t_staff`
+--
+
+INSERT INTO `t_staff` (`id_staff`, `nama_staff`, `photo_cover`, `jabatan`, `id_user`) VALUES
+(1, 'rendhi', 'staff_1722049456.png', 'staff', 3);
 
 -- --------------------------------------------------------
 
@@ -143,6 +233,30 @@ ALTER TABLE `t_agenda`
   ADD PRIMARY KEY (`id_agenda`);
 
 --
+-- Indexes for table `t_faq`
+--
+ALTER TABLE `t_faq`
+  ADD PRIMARY KEY (`id_faq`);
+
+--
+-- Indexes for table `t_kerjasama`
+--
+ALTER TABLE `t_kerjasama`
+  ADD PRIMARY KEY (`id_ks`);
+
+--
+-- Indexes for table `t_news`
+--
+ALTER TABLE `t_news`
+  ADD PRIMARY KEY (`id_news`);
+
+--
+-- Indexes for table `t_staff`
+--
+ALTER TABLE `t_staff`
+  ADD PRIMARY KEY (`id_staff`);
+
+--
 -- Indexes for table `t_user`
 --
 ALTER TABLE `t_user`
@@ -157,6 +271,30 @@ ALTER TABLE `t_user`
 --
 ALTER TABLE `t_agenda`
   MODIFY `id_agenda` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=46;
+
+--
+-- AUTO_INCREMENT for table `t_faq`
+--
+ALTER TABLE `t_faq`
+  MODIFY `id_faq` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
+--
+-- AUTO_INCREMENT for table `t_kerjasama`
+--
+ALTER TABLE `t_kerjasama`
+  MODIFY `id_ks` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT for table `t_news`
+--
+ALTER TABLE `t_news`
+  MODIFY `id_news` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=63;
+
+--
+-- AUTO_INCREMENT for table `t_staff`
+--
+ALTER TABLE `t_staff`
+  MODIFY `id_staff` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `t_user`
