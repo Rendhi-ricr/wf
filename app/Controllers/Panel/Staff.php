@@ -187,7 +187,7 @@ class Staff extends BaseController
                     if (preg_match('/<\?php|<script|<\?=/i', $fileContent)) {
                         $data['validation'] = $this->validator;
                         $data['error'] = 'File mengandung kode berbahaya dan tidak dapat diunggah.';
-                        $data['dataKs'] = $da;
+                        $data['datasStaff'] = $da;
                         return view('bo_layouts/staff/edit', $data); // Jangan lanjutkan proses
                     }
 
@@ -224,5 +224,21 @@ class Staff extends BaseController
 
         $data['dataStaff'] = $da;
         return view('bo_layouts/staff/edit', $data);
+    }
+
+    public function remove($id)
+    {
+        $staffModel = new StaffModel();
+        $da = $staffModel->where('id_staff ', $id)->first();
+        $existingFile = $da['photo_cover'];
+        if ($existingFile) {
+            if (file_exists(WRITEPATH . 'uploads/staff/' . $existingFile)) {
+                unlink(WRITEPATH . 'uploads/staff/' . $existingFile);
+            }
+        }
+        $staffModel->delete($id);
+        //flash message
+        session()->setFlashdata('message', 'Data Staff berhasil dihapus');
+        return redirect()->to('/panel/staff');
     }
 }

@@ -73,5 +73,5 @@ $routes->group("panel/staff", function ($routes) {
     // $routes->post('trash-selected', 'Panel\Ks::trashSelected');
     // // $routes->get('(:any)/trash', 'Panel\News::trash/$1');
     // // $routes->get('(:any)/restore', 'Panel\News::restore/$1');
-    // $routes->get('(:any)/remove', 'Panel\Ks::remove/$1');
+    $routes->get('(:any)/remove', 'Panel\Staff::remove/$1');
 });
