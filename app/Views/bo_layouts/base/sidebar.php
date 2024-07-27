@@ -38,6 +38,11 @@
                     <i class="align-middle" data-feather="coffee"></i> <span class="align-middle">Kerjasama</span>
                 </a>
             </li>
+            <li class="sidebar-item">
+                <a class="sidebar-link" href="<?= site_url('panel/staff') ?>">
+                    <i class="align-middle" data-feather="coffee"></i> <span class="align-middle">Staff</span>
+                </a>
+            </li>
 
             <li class="sidebar-header">
                 Plugins & Addons

@@ -62,3 +62,16 @@ $routes->group("panel/ks", function ($routes) {
     // $routes->get('(:any)/restore', 'Panel\News::restore/$1');
     $routes->get('(:any)/remove', 'Panel\Ks::remove/$1');
 });
+
+$routes->group("panel/staff", function ($routes) {
+    $routes->get('/', 'Panel\Staff::index');
+    $routes->post('fetch', 'Panel\Staff::fetchStaff');
+    // // $routes->post('fetch-draft', 'Panel\News::fetchNewsDraft');
+    // // $routes->post('fetch-trash', 'Panel\News::fetchNewsTrash');
+    $routes->match(["get", "post"], "tambah", "Panel\Staff::tambah");
+    $routes->match(["get", "post"], "(:any)/edit", "Panel\Staff::edit/$1");
+    // $routes->post('trash-selected', 'Panel\Ks::trashSelected');
+    // // $routes->get('(:any)/trash', 'Panel\News::trash/$1');
+    // // $routes->get('(:any)/restore', 'Panel\News::restore/$1');
+    // $routes->get('(:any)/remove', 'Panel\Ks::remove/$1');
+});
